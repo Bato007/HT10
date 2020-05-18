@@ -30,6 +30,7 @@ public class Main{
             System.out.println("| Un error inesperado ha ocurrido");
         }
 
+
         // Realizando las opciones que desea el usuario hasta que se aburra
         do{
             System.out.println("|\n|\tIdentificador de Centros de Salud");
