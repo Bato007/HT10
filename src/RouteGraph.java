@@ -5,6 +5,7 @@ import java.util.*;
  * @since 17/05/2020
  * @version 18/05/2020
  * @name RouteGraph.java
+ * @see: https://www.youtube.com/watch?v=xK0ShW9G-Ts&list=PLCLpAU8VN0j4RGemFfybZrWoSX57NbEq9&index=50&t=293s
  *
  * Se encarga de administrar a los nodos y aristas
  * @param <V> tipo de los nodos
