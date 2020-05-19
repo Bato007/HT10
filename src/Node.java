@@ -1,7 +1,7 @@
 /**
  * Brandon Hernandez 19376
  * @since 17/05/2020
- * @version 17/05/2020
+ * @version 18/05/2020
  * @name Node.java
  *
  * Se encarga de representar a un nodo
@@ -24,4 +24,11 @@ public class Node<V> {
         this.index = index;
     }
 
+    /**
+     * Se encarga de dar el indice del nodo en la matriz
+     * @return el index'
+     */
+    public Integer getIndex() {
+        return index;
+    }
 }

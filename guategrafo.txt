@@ -1,0 +1,10 @@
+Antigua Mixco 10
+Antigua Cayala 15
+Mixco Cayala 10
+Mixco SanCris 5
+Cayala Guatemala 5
+Guatemala Antigua 20
+Guatemala Zona7 5
+Zona7 SanCris 5
+Zona7 Cayala 8
+SanCris Zona7 5
